@@ -9,28 +9,13 @@
 <br />
 <div align="center">
 <img src="https://media.tenor.com/42bcTn0iuVgAAAAi/under-construction-pikachu.gif" alt="under construction image" width="400"><br>
-- 🔭 I’m currently working on ... <br>   
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>  
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
+</div>
+<div align="left">
+- 🔭 I’m currently working on <a href="https://github.com/JoseLuisPelayo/Expense_Tracker">Xpense Tracker</a> <br>   
+- 🌱 I’m currently learning Spring<br>
+- 👯 I’m looking to collaborate on anything<br>  
+- 💬 Ask me about PHP, Laravel, Docker, Tailwind, Vue<br>
 - 📫 How to reach me: ...<br>  
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
 </div>
-## Hi there 👋
-
-<!--
-**JoseLuisPelayo/JoseLuisPelayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
