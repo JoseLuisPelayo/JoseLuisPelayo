@@ -8,7 +8,7 @@
 </h2>
 <br />
 <div align="center">
-    <img src="467240962_10234128317052610_1132880624799075385_n.jpg" height="350">
+    <img src="portada2.png" height="350">
 </div>
 
 
