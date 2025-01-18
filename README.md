@@ -7,13 +7,15 @@
     A software develop lover from Spain.
 </h2>
 <br />
-<p align="center">
-<h2>Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,laravel,tailwind,vue,git,debian,docker,c,vim" />
-  </a>
-</p>
+
+
 <div align="center">
+<h2>Tech Stack</h2>
+  <a href="#" align="center">
+    <img src="https://skillicons.dev/icons?i=java,cs,php,mysql,postgres,js,laravel,tailwind,vue,git,debian,docker,postman&theme=light "/>
+  </a>
+
+## Stats
 
 ![JoseLuisPelayo's Stats](https://github-readme-stats.vercel.app/api?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![JoseLuisPelayo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
