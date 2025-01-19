@@ -5,9 +5,9 @@
 </h1>
 <div align="center">
     <img src="portada2.png">
-    <p>Contact me</p>
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
-    
+    <h3>Contact me</h3>
+<p> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</p>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-garc%C3%ADa-pelayo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepingp@gmail.com)
 </div>
