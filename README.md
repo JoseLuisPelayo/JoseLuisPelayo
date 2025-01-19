@@ -9,18 +9,9 @@
     A software develop lover from Spain.
 </h2>
     <p>Contact me</p>
-<a href="https://www.linkedin.com/in/jose-luis-garc%C3%ADa-pelayo" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank />
-</a>
-
-<a href="https://discord.gg/ap8C8hABfv">
-   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
     
-<a href="https://discord.gg/ap8C8hABfv">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-   
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-garc%C3%ADa-pelayo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepingp@gmail.com)
 </div>
 <br />
 
@@ -32,17 +23,7 @@
   </a>
 
 ## Stats
-
 ![JoseLuisPelayo's Stats](https://github-readme-stats.vercel.app/api?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![JoseLuisPelayo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-<img src="https://media.tenor.com/42bcTn0iuVgAAAAi/under-construction-pikachu.gif" alt="under construction image" width="400"><br>
 </div>
-<div align="left">
-- 🔭 I’m currently working on <a href="https://github.com/JoseLuisPelayo/Expense_Tracker">Xpense Tracker</a> <br>   
-- 🌱 I’m currently learning Spring<br>
-- 👯 I’m looking to collaborate on anything<br>  
-- 💬 Ask me about PHP, Laravel, Docker, Tailwind, Vue<br>
-- 📫 How to reach me: ...<br>  
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
-</div>
+
