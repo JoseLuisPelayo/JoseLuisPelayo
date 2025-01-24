@@ -21,7 +21,10 @@
   </a>
 
 ## Stats
-![JoseLuisPelayo's Stats](https://github-readme-stats.vercel.app/api?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
+</span>
+    
 ![JoseLuisPelayo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisPelayo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 </div>
 
